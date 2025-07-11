@@ -1,0 +1,81 @@
+{
+  "Projects": [
+    {
+      "show": true,
+      "title": "Client Personal Protfolio Website",
+      "desc": [
+        "A personal portfolio website that I created for a client. The website is built using two main tech, native (HTML, CSSS, JS) and react based (ReactJs, TailwindCSS, Typescript). The website also created based on the client design, and improved and sliced by me. The website has a few features such as a about page, a project page, resume page, and a contact page.",
+        "The website is created using a modern design and a clean interface that appeals to a wide audience. The website also has a responsive design that makes it easy to use on any device. The website also has a few animations that make the website more interactive and engaging."
+      ],
+      "year": "2025",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/web/apii-portfolio/porto-thumbnail.jpg",
+      "images": [
+        "/image/projects/web/apii-portfolio/porto1.png",
+        "/image/projects/web/apii-portfolio/porto2.png",
+        "/image/projects/web/apii-portfolio/porto3.png"
+      ],
+      "tech": [
+        "HTML",
+        "CSS",
+        "JS",
+        "ReactJS",
+        "TailwindCSS",
+        "Typescript"
+      ], 
+      "slug": "apii-porto",
+      "category": [1,3]
+    },
+    {
+
+      "show": true,
+      "title": "Mangata Single Release by Reinth",
+      "desc": [
+        "As the project's Manager and Digital Marketer, I was entrusted with overseeing the entire lifecycle of the 2025 single release by the indie band Reinth. My responsibilities were comprehensive, spanning from initial creative conception to the final digital launch and performance analysis.",
+        "My involvement began with shaping the project's creative identity. I directed the creation of the single's artwork to ensure it visually represented the song's theme. Furthermore, I developed the core concept for the official music video, translating the musical narrative into a compelling visual story. During the production phase, I also served as a key advisor, providing critical feedback to align the final sound with our established creative vision.",
+        "On the marketing front, I designed and executed a multi-platform digital strategy aimed at maximizing reach and engaging with our target audience. This involved managing the project timeline, coordinating content releases, and optimizing our presence on key music platforms."
+      ],
+      "year": "2025",
+      "preview": "https://www.youtube.com/watch?v=W82JZTkU4fA&list=RDW82JZTkU4fA&start_radio=1&ab_channel=ReinthEthernal",
+      "code": "",
+      "thumbnail": "/image/projects/web/mind-mirror/mind-thumbnail.jpg",
+      "images": [
+        "/image/projects/web/mind-mirror/mind1.png",
+        "/image/projects/web/mind-mirror/mind2.png",
+        "/image/projects/web/mind-mirror/mind3.png"
+      ],
+      "tech": [
+        "Social Media",
+        "Capcut",
+        "Canva"
+      ], 
+      "slug": "mangata",
+      "category": [1,2]
+    },
+    {
+      "show": true,
+      "title": "UMKM Accounting System",
+      "desc": [
+        "A comprehensive Small and Medium Enterprise (SME) accounting information system built with React, JavaScript, and Tailwind CSS. The application provides complete financial management capabilities including transaction tracking, inventory management, customer relations, financial reporting, and tax management with role-based access control.",
+        "The system features a multi-user authentication system supporting four distinct roles: Business Owner (Pemilik Usaha), Accountant (Akuntan), Cashier (Kasir), and Inventory Manager (Manajer Inventaris). Each role has appropriate access levels to different modules of the system, ensuring proper segregation of duties and data security."
+      ],
+      "year": "2025",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/web/trivia/trivia-thumbnail.png",
+      "images": [
+        "/image/projects/web/trivia/trivia1.png",
+        "/image/projects/web/trivia/trivia2.png",
+        "/image/projects/web/trivia/trivia3.png"
+      ],
+      "tech": [
+        "ReactJS",
+        "JavaScript",
+        "Tailwind CSS"
+      ], 
+      "slug": "SIA",
+      "category": [1,3]
+    }
+  ]
+}
